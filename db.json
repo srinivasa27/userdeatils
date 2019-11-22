@@ -1,5 +1,7 @@
 {
-  "uname": "srini",
-  "fname": "Srinivas",
-  "lname": "Sannaputtaiah"
+  "user": {
+    "uname": "srini",
+    "fname": "Srinivas",
+    "lname": "Sannaputtaiah"
+  }
 }
